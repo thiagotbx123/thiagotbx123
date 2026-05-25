@@ -31,7 +31,6 @@ Before SaaS I spent 10+ years in project delivery and data at **Vale, Rede D'Or 
 | 🧪 **[synthetic-data-forge](https://github.com/thiagotbx123/synthetic-data-forge)** | Deterministic, referentially-intact synthetic datasets for demos, tests and ML, with zero dependencies | Python |
 | 🔌 **[mcp-server-starter](https://github.com/thiagotbx123/mcp-server-starter)** | Minimal Model Context Protocol server exposing typed tools any AI agent can call | Python, MCP, FastMCP |
 | 📡 **[slack-api-guide](https://github.com/thiagotbx123/slack-api-guide)** | Beginner-friendly guide to extracting Slack data with the official API | Python, Slack API |
-| 🧱 **[SpineHUB](https://github.com/thiagotbx123/SpineHUB)** | Standard project-structure template for working with AI coding agents | Python, CLI |
 
 ### 🛠️ Tech Stack
 
